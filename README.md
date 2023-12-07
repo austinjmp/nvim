@@ -13,6 +13,7 @@ My current Neovim configration.
 - [mason-lspconfig](https://github.com/williamboman/mason-lspconfig.nvim) - Mason and lsp-config integration
 - [nightfox](https://github.com/oxalica/nightfox.vim) - Colorscheme
 - [noice](https://github.com/folke/noice.nvim) - cmdline UI
+- [nvim-autopairs](https://github.com/radleylewis/nvim/blob/master/lua/plugins/nvim-autopairs.lua) - autopair completion
 - [nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - auto completion
 - [nvim-tree](https://github.com/nvim-tree/nvim-tree.lua) - file tree explorer
 - [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Parsing
