@@ -2,26 +2,25 @@
 My current Neovim configration.
 
 ## Plugins
-[comment.nvim](https://github.com/numToStr/Comment.nvim)
-[efm-langserver](https://github.com/mattn/efm-langserver)
-[indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim)
-[lazy.nvim](https://github.com/folke/lazy.nvim)
-[lspconfig](https://github.com/neovim/nvim-lspconfig) 
-[lspsaga](https://github.com/nvimdev/lspsaga.nvim)
-[lualine](https://github.com/nvim-lualine/lualine.nvim)
-[mason](https://github.com/williamboman/mason.nvim)
-[mason-lspconfig](https://github.com/williamboman/mason-lspconfig.nvim)
-[neoconf](https://github.com/folke/neoconf.nvim)
-[nightfox](https://github.com/oxalica/nightfox.vim)
-[noice](https://github.com/folke/noice.nvim)
-[nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
-[nvim-tree](https://github.com/nvim-tree/nvim-tree.lua)
-[nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
-[nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons)
-[telescope](https://github.com/nvim-telescope/telescope.nvim)
-[vim-highlightedyank](https://github.com/machakann/vim-highlightedyank)
-[vim-illuminate](https://github.com/RRethy/vim-illuminate)
-[whichkey](https://github.com/folke/which-key.nvim)
+[comment.nvim](https://github.com/numToStr/Comment.nvim) - Commenting
+[efm-langserver](https://github.com/mattn/efm-langserver) - Formatting and Linting
+[indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) - Indentation
+[lazy.nvim](https://github.com/folke/lazy.nvim) - Plugin Manager  
+[lspconfig](https://github.com/neovim/nvim-lspconfig) - Language Server Protocal
+[lspsaga](https://github.com/nvimdev/lspsaga.nvim) - LSP Support
+[lualine](https://github.com/nvim-lualine/lualine.nvim) - Status Line
+[mason](https://github.com/williamboman/mason.nvim) - LSP Install Manager
+[mason-lspconfig](https://github.com/williamboman/mason-lspconfig.nvim) - Mason and lsp-config integration
+[nightfox](https://github.com/oxalica/nightfox.vim) - Colorscheme
+[noice](https://github.com/folke/noice.nvim) - cmdline UI
+[nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - auto completion
+[nvim-tree](https://github.com/nvim-tree/nvim-tree.lua) - file tree explorer
+[nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Parsing
+[nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons) - directory icons
+[telescope](https://github.com/nvim-telescope/telescope.nvim) - fuzzy finder
+[vim-highlightedyank](https://github.com/machakann/vim-highlightedyank) - highlights yanked text
+[vim-illuminate](https://github.com/RRethy/vim-illuminate) - highlights instances of a word
+[whichkey](https://github.com/folke/which-key.nvim) - shortcut hints
 
 ## Author
 Austin Moore-Payot
