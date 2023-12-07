@@ -6,7 +6,7 @@ My current Neovim configration.
 [efm-langserver](https://github.com/mattn/efm-langserver)
 [indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim)
 [lazy.nvim](https://github.com/folke/lazy.nvim)
-[lspconfig](https://github.com/neovim/nvim-lspconfig)
+[lspconfig](https://github.com/neovim/nvim-lspconfig) 
 [lspsaga](https://github.com/nvimdev/lspsaga.nvim)
 [lualine](https://github.com/nvim-lualine/lualine.nvim)
 [mason](https://github.com/williamboman/mason.nvim)
