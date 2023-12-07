@@ -8,7 +8,7 @@ local config = function()
 		},
 		sections = {
 			lualine_a = { "mode" },
-			--lualine_x = { "encoding", "fileformat", "filetype" },
+			lualine_x = { "encoding", "fileformat", "filetype" },
 			lualine_y = { "progress" },
 			lualine_z = { "location" },
 		},
