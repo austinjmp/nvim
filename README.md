@@ -1,6 +1,6 @@
 # Neovim Configuration
 
-My current Neovim configration.
+My first attepmt at building a Neovim configuration. Has a few bugs and errors under check health but I learned a ton about how to do this. Not sure yet if I will actually use this.
 
 ## Plugins
 
