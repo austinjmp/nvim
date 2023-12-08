@@ -1,12 +1,10 @@
 return {
-	"catppuccin/nvim",
-	name = "catppuccin-macchiato",
+	"EdenEast/nightfox.nvim",
+	name = "nightfox",
 	priority = 1000,
 	lazy = false,
 	config = function()
-		vim.cmd("colorscheme catppuccin-macchiato")
-		require("catppuccin").setup({
-			flavour = "frappe",
-		})
+		vim.cmd("colorscheme nightfox")
+		require("nightfox").setup({})
 	end,
 }
