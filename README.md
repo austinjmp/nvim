@@ -25,8 +25,4 @@ My first attepmt at building a Neovim configuration. Has a few bugs and errors u
 -   [transparent](https://github.com/xiyaowong/transparent.nvim) - window transparency
 -   [vim-highlightedyank](https://github.com/machakann/vim-highlightedyank) - highlights yanked text
 -   [vim-illuminate](https://github.com/RRethy/vim-illuminate) - highlights instances of a word
--   [whichkey](https://github.com/folke/which-key.nvim) - shortcut hints
-
-## Author
-
-Austin Moore-Payot
+-   [whichkey](https://github.com/folke/which-key.nvim) - shortcut keys
