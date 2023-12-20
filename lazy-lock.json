@@ -1,5 +1,6 @@
 {
   "harpoon": { "branch": "harpoon2", "commit": "9031087ff1b18d0a34bd664719ec66cc8be1efd8" },
+  "indent-blankline.nvim": { "branch": "master", "commit": "f3eb33c04c3c5028b4efa7dbf8f68abdb6ab50ed" },
   "lazy.nvim": { "branch": "main", "commit": "96584866b9c5e998cbae300594d0ccfd0c464627" },
   "neoconf.nvim": { "branch": "main", "commit": "64437787dba70fce50dad7bfbb97d184c5bc340f" },
   "neodev.nvim": { "branch": "main", "commit": "93ab59d5d436b36698c14d0374150a7e5e7bccb6" },
