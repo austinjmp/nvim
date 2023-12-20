@@ -7,6 +7,7 @@ My second at building a Neovim configuration. Far less bugs. Also, less bloated.
 -   [fugitive](https://github.com/tpope/vim-fugitive) - Git
 -   [harpoon](https://github.com/ThePrimeagen/harpoon/tree/harpoon2) - Quick Nav
 -   [lazy.nvim](https://github.com/folke/lazy.nvim) - Plugin Manager
+-   [nvim-tree](https://github.com/nvim-tree/nvim-tree.lua) - file explorer
 -   [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - parsing
 -   [nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons) - Directory Icons
 -   [rose-pine](https://github.com/rose-pine/neovim) - theme
