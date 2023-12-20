@@ -1,6 +1,6 @@
 # Neovim Configuration
 
-My second at building a Neovim configuration. Far less bugs. Also, less bloated.
+My second attempt at building a Neovim configuration. Far less bugs. Purposely reduced UI elements to make it feel more streamlined.
 
 ## Plugins
 
