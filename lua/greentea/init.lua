@@ -1,4 +1,4 @@
-require("greentea.remap")
+require("greentea.globals")
 
 local lazypath = vim.fn.stdpath("data") .. "/lazy/lazy.nvim"
 if not vim.loop.fs_stat(lazypath) then
@@ -14,6 +14,7 @@ end
 vim.opt.rtp:prepend(lazypath)
 
 require("greentea.options")
+require("greentea.keymaps")
 
 
 local plugins = "plugins"
