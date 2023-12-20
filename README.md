@@ -2,6 +2,7 @@
 
 My first attepmt at building a Neovim configuration. Has a few bugs and errors under check health but I learned a ton about how to do this. Not sure yet if I will actually use this.
 
+setup following "The Rad Lectures" youtube tutorial. many key bindings and files are taken from this video. I plan on making my own configuration not reliant on these files in the future. 
 ## Plugins
 
 -   [comment.nvim](https://github.com/numToStr/Comment.nvim) - Commenting
